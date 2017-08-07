@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+this intends to be a community focused on educational purposes regarding infosec research and malware analysis
 
-### More Information
+feel free to contact us if personalized courses or auditing services are needed
 
-A place to include any other types of information that you'd like to include about yourself.
+### Contact
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[info@remlw.com](mailto:info@remlw.com)
