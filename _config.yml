@@ -9,7 +9,7 @@ name: reverse engineering malware - remlw
 description: reverse engineering malware resources and useful links repository
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar:  remlw.github.io/images/bug.png 
+avatar:  https://remlw.github.io/images/bug.png 
 
 #
 # Flags below are optional
