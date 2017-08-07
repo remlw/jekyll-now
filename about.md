@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: about
 permalink: /about/
 ---
 
@@ -8,6 +8,6 @@ this intends to be a community focused on educational purposes regarding infosec
 
 feel free to contact us if personalized courses or auditing services are needed
 
-### Contact
+### contact
 
 [info@remlw.com](mailto:info@remlw.com)
