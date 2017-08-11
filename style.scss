@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: $white;
-  font: 18px/1.4 $helvetica;
+	background: $lightgray;
+  font: 16px/1.4 $arial;
   color: $darkGray;
 }
 
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: $orange;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $orange;
   }
 }
 
