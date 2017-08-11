@@ -19,8 +19,8 @@ html {
 
 body {
 	background: $white;
-  font: 16px/1.4 $arial;
-  color: $black;
+  font: 18px/1.4 $helvetica;
+  color: $darkGray;
 }
 
 .container {
@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $arial;
+  font-family: $helveticaNeue;
   color: $darkerGray;
   font-weight: bold;
 
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $orange;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $orange;
+    color: $blue;
   }
 }
 
