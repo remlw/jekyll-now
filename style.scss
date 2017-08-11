@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $blue;
+	background: $white;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -69,11 +69,11 @@ p {
 }
 
 a {
-  color: $red;
+  color: $orange;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $red;
+    color: $orange;
   }
 }
 
@@ -232,7 +232,7 @@ nav {
 
     @include mobile {
       margin: 0 10px;
-      color: $red;
+      color: $blue;
     }
   }
 }
